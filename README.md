@@ -1,5 +1,5 @@
 # Cesium标绘插件
-## [在线api文档说明](http://mapgl.com/3dapi/Prompt.html)
+## [在线api文档说明](http://mapgl.com/3dapi)
 ## [在线体验地址1（三维框架内）](http://mapgl.com/shareCode/#/PopupTooltip?downUrl=)
 ## [在线体验地址2](http://mapgl.com/shareCode/#/Plot?downUrl=)
 ## [更多案例地址](http://mapgl.com/shareCode/)
