@@ -94,6 +94,9 @@ onMounted(() => {
         homeButton: false
     });
     document.getElementsByClassName("cesium-viewer-bottom")[0].style.display = "none";
+    viewer.cesiumWidget.screenSpaceEventHandler.removeInputAction(
+        Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK
+    );
     util.setCameraView({
         "x": 116.30737298856594,
         "y": 31.157848537028933,
@@ -122,19 +125,20 @@ const clear = () => {
 </script>
 
 <style scoped>
-#mapContainer{
+#mapContainer {
     height: 100%;
     margin: 0;
     padding: 0;
 }
 
-.toolbar{
+.toolbar {
     position: absolute;
     top: 20px;
     left: 20px;
     z-index: 99;
 }
-.toolbar-btn{
+
+.toolbar-btn {
     margin: 10px;
 }
 </style>
