@@ -42,12 +42,12 @@ ps：如果可以的话，希望大家能给我个star，好让我有更新下�
     ```  
 以上是此库一个大致的介绍，具体调用和开发请参考开发文档。
 ***
-更多案例地址（我们持续更新）：
-标绘插件：  
-      github:  [https://github.com/gitgitczl/cesiumExp-plot](https://github.com/gitgitczl/cesiumExp-plot)
-      码云：    [https://gitee.com/caozl1132/cesiumExp-plot](https://gitee.com/caozl1132/cesiumExp-plot)  
-气泡窗插件：
-      github： [https://github.com/gitgitczl/cesiumExp-prompt](https://github.com/gitgitczl/cesiumExp-prompt)
+更多案例地址（我们持续更新）：  
+- 标绘插件：    
+      github:  [https://github.com/gitgitczl/cesiumExp-plot](https://github.com/gitgitczl/cesiumExp-plot)  
+      码云：    [https://gitee.com/caozl1132/cesiumExp-plot](https://gitee.com/caozl1132/cesiumExp-plot)    
+- 气泡窗插件：  
+      github： [https://github.com/gitgitczl/cesiumExp-prompt](https://github.com/gitgitczl/cesiumExp-prompt)  
       码云：    [https://github.com/gitgitczl/cesiumExp-prompt](https://gitee.com/caozl1132/cesiumExp-prompt)
 ***
 交流群：
