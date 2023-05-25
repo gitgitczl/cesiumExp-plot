@@ -1,11 +1,11 @@
 # Cesium标绘插件
-## [在线api文档说明](http://mapgl.com/3dapi)
-## [在线体验地址1（三维框架内）](http://mapgl.com/shareCode/#/PopupTooltip?downUrl=)
-## [在线体验地址2](http://mapgl.com/shareCode/#/Plot?downUrl=)
-## [更多案例地址](http://mapgl.com/shareCode/)
-## [免费gis数据](http://mapgl.com/shareData/)
-***
+### [在线体验地址1（三维框架内）](http://mapgl.com/shareCode/#/PopupTooltip?downUrl=)
+### [在线体验地址2](http://mapgl.com/shareCode/#/Plot?downUrl=)
+gitee：https://gitee.com/caozl1132/CesiumExp-plot  
+github：https://github.com/gitgitczl/CesiumExp-plot  
+
 ps：如果可以的话，希望大家能给我个star，好让我有更新下去的动力；
+
 ***
 实现原理：<br/>
 - 其中实现动态绘制的原理主要是利用了callbackproperty（[property总结](https://zhuanlan.zhihu.com/p/50534090)），核心的难点是处理好标绘对象的状态管理，我在类中使用了一个state属性来进行了管理，用其控制何时开始绘制、何时结束绘制、何时开始编辑等。  
@@ -42,13 +42,9 @@ ps：如果可以的话，希望大家能给我个star，好让我有更新下�
     ```  
 以上是此库一个大致的介绍，具体调用和开发请参考开发文档。
 ***
-更多案例地址（我们持续更新）：  
-- 标绘插件：    
-      github:  [https://github.com/gitgitczl/cesiumExp-plot](https://github.com/gitgitczl/cesiumExp-plot)  
-      码云：    [https://gitee.com/caozl1132/cesiumExp-plot](https://gitee.com/caozl1132/cesiumExp-plot)    
-- 气泡窗插件：  
-      github： [https://github.com/gitgitczl/cesiumExp-prompt](https://github.com/gitgitczl/cesiumExp-prompt)  
-      码云：    [https://github.com/gitgitczl/cesiumExp-prompt](https://gitee.com/caozl1132/cesiumExp-prompt)
-***
-交流群：
-    ![QQ群（606645466）](http://mapgl.com/data/images/qqqun.png)
+其它： 
+qq群：606645466（GIS之家共享交流群）
+
+[更多案例地址](http://mapgl.com/shareCode/)&nbsp;&nbsp;&nbsp; [更多免费数据](http://mapgl.com/shareData/)&nbsp;&nbsp;&nbsp; [开发文档说明](http://mapgl.com/3dapi/)   
+
+[其它源码下载（标绘、量算、动态材质、漫游、地图分析等）](http://mapgl.com/introduce/)
