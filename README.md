@@ -42,7 +42,7 @@ ps：如果可以的话，希望大家能给我个star，好让我有更新下�
     ```  
 以上是此库一个大致的介绍，具体调用和开发请参考开发文档。
 ***
-其它： 
+其它：   
 qq群：606645466（GIS之家共享交流群）
 
 [更多案例地址](http://mapgl.com/shareCode/)&nbsp;&nbsp;&nbsp; [更多免费数据](http://mapgl.com/shareData/)&nbsp;&nbsp;&nbsp; [开发文档说明](http://mapgl.com/3dapi/)   
